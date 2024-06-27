@@ -1,0 +1,41 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #282c34;
+    padding: 1rem;
+    color: white;
+  }
+  
+  .container {
+    padding: 1rem;
+  }
+  
+  button {
+    margin-right: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  form {
+    margin: 1rem 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
